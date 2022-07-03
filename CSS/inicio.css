@@ -33,6 +33,8 @@ h1, h2{
     width: 850px;
     height: 550px;
     background-image: url(uno.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 .info{
 
