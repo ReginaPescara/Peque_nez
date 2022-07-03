@@ -18,6 +18,7 @@ h1, h2{
     height: 1350px;
     width: 300px;
     float: left;
+    font-size: 20px;
 }
 #m{
     background-color: rgba(173, 216, 230, 0.579);
