@@ -5,8 +5,8 @@
 }
 .encabezado{
     font-family: fantasy;
-    background-color: aqua;
-    color: white;
+    background-color: rgb(173, 216, 230);
+    
 }
 h1, h2{
     margin-left: 200px;
