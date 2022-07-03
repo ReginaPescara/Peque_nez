@@ -43,7 +43,8 @@ h1, h2{
     background-size: cover;
 }
 .info{
-
+    width: 850px;
+    height: 250px;
 }
 .pie{
     
