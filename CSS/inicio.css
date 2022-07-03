@@ -13,9 +13,12 @@ h1, h2{
 
 }
 .menu{
-    background-color: rgba(173, 216, 230, 0.579);
+    
     width: 300px;
     float: left;
+}
+#m{
+    background-color: rgba(173, 216, 230, 0.579);
 }
 .vestimenta {
   display: flex;
