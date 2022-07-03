@@ -49,7 +49,9 @@ h1, h2{
     font-size: 20px;
 }
 #i{
-    
+    background-color: rgba(144, 190, 190, 0.777);
+    width: 850px;
+    height: 250px;
 }
 .pie{
     
