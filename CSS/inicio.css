@@ -21,6 +21,8 @@ h1, h2{
   align-items: center;
 }
 #fondo1{
+    width: 850px;
+    height: 550px;
     background-image: url(bata1.jpg);
     background-repeat: no-repeat;
     background-size: cover;
