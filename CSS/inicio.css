@@ -57,6 +57,6 @@ h1, h2{
     width: 850px;
     height: 250px;
 }
-.pie{
-    
+.pie{ 
+    background-color: rgba(173, 216, 230, 0.579);
 }
