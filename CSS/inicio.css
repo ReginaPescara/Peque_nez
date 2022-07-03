@@ -59,6 +59,9 @@ h1, h2{
 }
 .pie{ 
     background-color: rgba(173, 216, 230, 0.579);
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
 }
 .img {
     width: 50px;
