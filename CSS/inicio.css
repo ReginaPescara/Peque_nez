@@ -19,6 +19,7 @@ h1, h2{
   display: flex;
   justify-content: center;
   align-items: center;
+  font-size: 40px;
 }
 #fondo1{
     width: 850px;
