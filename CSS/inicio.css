@@ -16,7 +16,9 @@ h1, h2{
     background-color: rgba(173, 216, 230, 0.579);
 }
 .vestimenta{
-  
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 #fondo1{
 
