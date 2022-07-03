@@ -46,6 +46,7 @@ h1, h2{
 }
 .imagenes{
     display: flex;
+    flex-direction: column;
     width: 400px;
     height: 400px;
 }
