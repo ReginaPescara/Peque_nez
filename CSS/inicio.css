@@ -15,7 +15,7 @@ h1, h2{
 .menu{
     background-color: rgba(173, 216, 230, 0.579);
 }
-.vestimenta{
+.vestimenta .accesorios{
   display: flex;
   justify-content: center;
   align-items: center;
@@ -28,9 +28,7 @@ h1, h2{
     background-repeat: no-repeat;
     background-size: cover;
 }
-.accesorios{
 
-}
 #fondo2{
     
 }
