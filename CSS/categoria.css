@@ -44,3 +44,8 @@ h1, h2{
     width: 50px;
     height: 50px;
 }
+.imagenes{
+    display: flex;
+    width: 400px;
+    height: 400px;
+}
