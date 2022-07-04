@@ -65,12 +65,21 @@ h1, h2{
     display: flex;
     justify-content: center;
     align-items: center;
+    
+    
 }
 .Almohada{
-    width: 400px;
-    height: 400px;
+    width: 350px;
+    height: 350px;
     display: flex;
     flex-direction: column;
+    
   
+}
+ .batas{
+    display: flex;
+    justify-content: center;
+    width: 400px;
+    height: 400px;
 }
 
