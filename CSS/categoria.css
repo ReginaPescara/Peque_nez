@@ -4,6 +4,13 @@
     font-size: 1em;
 	line-height: 1.5em;
 	padding-top: 80px;
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+
+>>>>>>> a08ced32d57277c517c2bffd5232a6e6526fc684
+>>>>>>> ba9460bdc45d46353156a289985ebead07ffb471
 }
 .encabezado{
     font-family: Georgia, 'Times New Roman', Times, serif;
@@ -12,6 +19,13 @@
 	position: fixed;
     left: 0;
 	top: 0;
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+    
+=======
+>>>>>>> a08ced32d57277c517c2bffd5232a6e6526fc684
+>>>>>>> ba9460bdc45d46353156a289985ebead07ffb471
 }
 h1, h2{
     margin-left: 200px;
@@ -51,6 +65,7 @@ h1, h2{
     width: 50px;
     height: 50px;
 }
+<<<<<<< HEAD
 .imagenes{
     display: flex;
     flex-direction: column;
@@ -83,3 +98,81 @@ h1, h2{
     margin-left: 510px;
     margin-right: auto;
 }
+=======
+<<<<<<< HEAD
+.reductores {
+    width: 400px;
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 510px;
+    margin-right: auto;
+}
+
+.Almohada{
+    width: 200px;
+    height: 200px;
+    display: flex;
+    flex-direction: column;
+    margin-left: 510px;
+    margin-right: auto;
+}
+ .batas{
+=======
+.c {
+    display: flex;
+    justify-content: center;
+    width: 400px;
+    height: 400px;
+}
+.c2{
+    display: flex;
+    justify-content: center;
+    width: 400px;
+    height: 400px;
+}
+.i{
+>>>>>>> a08ced32d57277c517c2bffd5232a6e6526fc684
+    display: flex;
+    justify-content: center;
+    width: 400px;
+    height: 400px;
+    margin-left: 510px;
+    margin-right: auto;
+}
+<<<<<<< HEAD
+
+=======
+.i2{
+    display: flex;
+    justify-content: center;
+    width: 400px;
+    height: 400px;
+}
+.i3{
+    display: flex;
+    justify-content: center;
+    width: 400px;
+    height: 400px;
+}
+.f1{
+    display: flex;
+    justify-content: center;
+    width: 400px;
+    height: 400px;
+}
+.f2{
+    display: flex;
+    justify-content: center;
+    width: 400px;
+    height: 400px;
+}
+.f3{
+    display: flex;
+    justify-content: center;
+    width: 400px;
+    height: 400px;
+}
+>>>>>>> a08ced32d57277c517c2bffd5232a6e6526fc684
+>>>>>>> ba9460bdc45d46353156a289985ebead07ffb471
