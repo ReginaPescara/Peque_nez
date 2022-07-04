@@ -78,7 +78,12 @@ h1, h2{
     width: 300px;
     height: 300px;
 }
+.cPant{
+    background-color: rgba(240, 248, 255, 0.556);
+    width: 200px;
+    height: 200px;
+}
 .iP{
-    width: 300px;
-    height: 300px;
+    width: 30px;
+    height: 30px;
 }
