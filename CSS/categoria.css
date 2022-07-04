@@ -84,3 +84,21 @@ h1, h2{
     width: 400px;
     height: 400px;
 }
+.f1{
+    display: flex;
+    justify-content: center;
+    width: 400px;
+    height: 400px;
+}
+.f2{
+    display: flex;
+    justify-content: center;
+    width: 400px;
+    height: 400px;
+}
+.f3{
+    display: flex;
+    justify-content: center;
+    width: 400px;
+    height: 400px;
+}
