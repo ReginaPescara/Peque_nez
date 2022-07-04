@@ -1,0 +1,104 @@
+.parent{
+    background-image: url(fondo2.jpg);
+    background-repeat: repeat;
+    font-size: 1em;
+	line-height: 1.5em;
+	padding-top: 80px;
+
+}
+.encabezado{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: rgb(173, 216, 230);
+    width: 100%;
+	position: fixed;
+    left: 0;
+	top: 0;
+}
+h1, h2{
+    margin-left: 200px;
+}
+.contenido{
+    background-color: rgba(240, 248, 255, 0.285);
+}
+.menu{
+    height: 1350px;
+    width: 300px;
+    float: left;
+    font-size: 20px;
+}
+#m{
+    background-color: rgba(173, 216, 230, 0.579);
+}
+.info{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+}
+#i{
+    background-color: rgb(150, 252, 231);
+    width: 850px;
+    height: 250px;
+}
+.pie{ 
+    background-color: rgba(173, 216, 230, 0.579);
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    bottom: 0;
+    width: 100%;
+}
+.img {
+    width: 50px;
+    height: 50px;
+}
+.c {
+    display: flex;
+    justify-content: center;
+    width: 400px;
+    height: 400px;
+}
+.c2{
+    display: flex;
+    justify-content: center;
+    width: 400px;
+    height: 400px;
+}
+.i{
+    display: flex;
+    justify-content: center;
+    width: 400px;
+    height: 400px;
+    margin-left: 510px;
+    margin-right: auto;
+}
+.i2{
+    display: flex;
+    justify-content: center;
+    width: 400px;
+    height: 400px;
+}
+.i3{
+    display: flex;
+    justify-content: center;
+    width: 400px;
+    height: 400px;
+}
+.f1{
+    display: flex;
+    justify-content: center;
+    width: 400px;
+    height: 400px;
+}
+.f2{
+    display: flex;
+    justify-content: center;
+    width: 400px;
+    height: 400px;
+}
+.f3{
+    display: flex;
+    justify-content: center;
+    width: 400px;
+    height: 400px;
+}
