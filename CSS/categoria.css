@@ -1,11 +1,17 @@
 .parent{
     background-image: url(fondo2.jpg);
     background-repeat: repeat;
-
+    font-size: 1em;
+	line-height: 1.5em;
+	padding-top: 80px;
 }
 .encabezado{
     font-family: Georgia, 'Times New Roman', Times, serif;
     background-color: rgb(173, 216, 230);
+    width: 100%;
+	position: fixed;
+    left: 0;
+	top: 0;
 }
 h1, h2{
     margin-left: 200px;
@@ -39,7 +45,7 @@ h1, h2{
     flex-direction: row;
     justify-content: space-around;
     bottom: 0;
-    width: 100px;
+    width: 100%;
 }
 .img {
     width: 50px;
@@ -48,8 +54,8 @@ h1, h2{
 .imagenes{
     display: flex;
     flex-direction: column;
-    width: 400px;
-    height: 400px;
+    width: 200px;
+    height: 200px;
 }
 #img1{
     float: left;
