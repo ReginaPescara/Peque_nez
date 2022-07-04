@@ -47,7 +47,6 @@ h1, h2{
     justify-content: space-around;
     bottom: 0;
     width: 100%;
-    
 }
 .img {
     width: 50px;
@@ -60,6 +59,26 @@ h1, h2{
     height: 400px;
 }
 .c2{
+    display: flex;
+    justify-content: center;
+    width: 400px;
+    height: 400px;
+}
+.i{
+    display: flex;
+    justify-content: center;
+    width: 400px;
+    height: 400px;
+    margin-left: 510px;
+    margin-right: auto;
+}
+.i2{
+    display: flex;
+    justify-content: center;
+    width: 400px;
+    height: 400px;
+}
+.i3{
     display: flex;
     justify-content: center;
     width: 400px;
