@@ -38,6 +38,8 @@ h1, h2{
     display: flex;
     flex-direction: row;
     justify-content: space-around;
+    bottom: 0;
+    width: 100px;
 }
 .img {
     width: 50px;
@@ -48,4 +50,10 @@ h1, h2{
     flex-direction: column;
     width: 400px;
     height: 400px;
+}
+#img1{
+    float: left;
+}
+#img2{
+    float: right;
 }
