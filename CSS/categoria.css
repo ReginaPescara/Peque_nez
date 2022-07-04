@@ -80,4 +80,6 @@ h1, h2{
 }
 .cPant{
     background-color: rgba(240, 248, 255, 0.556);
+    margin-left: 510px;
+    margin-right: auto;
 }
